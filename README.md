@@ -1,6 +1,5 @@
-# 🌿 Dain's TIL (Today I Learned)
-
-매일 배운 내용을 기록하고 성장하는 공간입니다.
+## 🌿 Dain's TIL (Today I Learned)
+매일 배운 내용을 기록하는 공간입니다.
 
 ## 📋 Posting Guide
 **파일명 규칙**: `YYYYMMDD-학습키워드.md` (예: `20260326-controller-service-separation.md`)
